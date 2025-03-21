@@ -1,12 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=9370DB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Dineka+Abhilashi!;Welcome+to+my+GitHub+profile!;Let's+build+something+amazing!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=9370DB&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Dineka+Abhilashi!;Welcome+to+my+GitHub+profile!;Let's+build+something+amazing!" />
 </h1>
 <h3 align="center">💜 Building Scalable Solutions, One Line at a Time 💜</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhilashidnk&label=Profile%20views&color=9370DB&style=flat" alt="Profile Views" />
-  <img src="https://github-profile-trophy.vercel.app/?username=abhilashidnk&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophy" />
-</p>
 
 ---
 
